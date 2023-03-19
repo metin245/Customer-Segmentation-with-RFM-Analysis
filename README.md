@@ -2,7 +2,7 @@
 <table border="">
     <tr>
         <td>
-            <h3>İndext</h3>
+            <h3>İndex</h3>
             <ul>                
  <a href="#Installation"> <li>Installation</li>
  <a href="#Project Overview"> <li>Project Overview</li>
