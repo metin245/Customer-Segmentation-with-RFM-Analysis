@@ -51,7 +51,11 @@ RFM analysis will be used for segmentation.</p>
 <p>Statistics were computed to find out the probabilities of converting regardless of page. These were used to analyze if one page or the other led to more conversions.</p>
 <p id="Project Motivation">  <h3> Project Motivation </h3></p>
 
- - hghghhg
+ - Analyse the descriptive statistics of the data set.
+ - Analyse the data set for missing data and remove missing data from the data set if necessary.
+ - List the 5 most ordered products in descending order.
+ - Define the RFM metrics
+ - Select 3 segments that you consider important. Comment on these three segments both in terms of action decisions and the structure of the segments.
    
         
 <p id="Results">  <h3> Results </h3></p>
