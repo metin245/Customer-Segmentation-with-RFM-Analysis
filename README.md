@@ -8,9 +8,9 @@
  <a href="#Project Overview"> <li>Project Overview</li>
  <a href="#Project Details"> <li>Project Details </li>
 
-  *  <a href="#Probability"> Probability</li>
-  *  <a href="#Probability"> Probability</li>
-  *  <a href="#Probability"> Probability</li>
+  *  <a href="#Exploratory Data Analysis"> Exploratory Data Analysis (EDA)</li>
+  *  <a href="#RFM Analyse"> RFM Analyse</li>
+  *  <a href="#Scored&Segmented"> Scored&Segmented</li>
  </ul>
 <ul>
 <a href="#Project Motivation"> <li>Project Motivation</li>
@@ -33,16 +33,26 @@
 * Numpy
 * Pandas
 * Matplotlib
-* Statsmodels
-* Scipy
+* CSV
 
 <p id="Project Overview">  <h3> Project Overview </h3></p>
 <img alt="online retail" src="https://cdn.enhencer.com/website-assets/images/blog/AdvantagesAndInefficaciesOfRFMSegmentation1.png" width ="500" height ="300" align ="right">
-<p> A/B tests are very commonly performed by data analysts and data scientists. It is important that you get some practice working with the difficulties of these. For this project, you will be working to understand the results of an A/B test run by an e-commerce website. The company has developed a new web page in order to try and increase the number of users who "convert," meaning the number of users who decide to pay for the company's product. Your goal is to work through this notebook to help the company understand if they should implement this new page, keep the old page, or perhaps run the experiment longer to make their decision.You will be provided a dataset reflecting data collected from an experiment. Use statistical techniques to answer questions about the data and report your conclusions and recommendations in a report</p>
+<p> The UK-based retail company is committed to
+segments its customers' and according to these segments decide marketing strategies. 
+It thinks that marketing activities specific to customer segments that exhibit common behaviours will increase revenue.
+RFM analysis will be used for segmentation.</p>
 <p id="Project Details">  <h3> Project Details </h3></p>
 <p>The Project was divided into Three Parts i.e. :</p>
-<p id="Probability">  <h4> Probability </h4></p>
+<p id="Exploratory Data Analysis">  <h4>Exploratory Data Analysis (EDA) </h4></p>
 <p>Statistics were computed to find out the probabilities of converting regardless of page. These were used to analyze if one page or the other led to more conversions.</p>
-
+<p id="RFM Analyse">  <h4>RFM Analyse </h4></p>
+<p>Statistics were computed to find out the probabilities of converting regardless of page. These were used to analyze if one page or the other led to more conversions.</p>
+<p id="Scored&Segmented">  <h4>Scored&Segmented </h4></p>
+<p>Statistics were computed to find out the probabilities of converting regardless of page. These were used to analyze if one page or the other led to more conversions.</p>
 <p id="Project Motivation">  <h3> Project Motivation </h3></p>
+
+ - hghghhg
+   
+        
 <p id="Results">  <h3> Results </h3></p>
+<p>Lots of the times keeping existing customers is far more efficient than gaining new customers. So companies might focus on the groups with high frequency and low recency scores like “Can’t loose them”, “at risk”. This customers were “champions” or “loyal customers” at some point and it would be beneficial to win them back. Note that different approaches should be taken in different fields and industries.</p>
