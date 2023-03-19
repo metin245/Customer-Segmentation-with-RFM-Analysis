@@ -1,29 +1,27 @@
+ <h3>Example Internal Links</h3>
+  <p><a href="#bottom">Bottom</a></p>
+  <p ">Here is an introductory paragraph with the selector 'opening' attached to it.</p>
+  <p>A lot of text that causes scrolling goes here.</p>
+ 
+  <p><a href="#top">Top</a></p>
+ <h3>Example Internal Links</h3>
+  <p><a href="#bottom">Bottom</a></p>
+  <p id="opening">ddddddddddddddddddddddd
+  My list: 
+<ul style=“list-style-type:square”>
 
-<html>
-<head>
-<style>
-aside {
-  width: 30%;
-  padding-left: 15px;
-  margin-left: 15px;
-  float: right;
-  font-style: italic;
-  background-color: lightgray;
-}
-</style>
-</head>
-<body>
+<li>First Item</li>
 
-<h1>The aside element - Styled with CSS</h1>
+<li>Second Item</li>
 
-<p>My family and I visited The Epcot center this summer. The weather was nice, and Epcot was amazing! I had a great summer together with my family!</p>
+<li>Third Item</li>
+  <ul style=“list-style-type:circle”>
+    <li>Second Item</li>
 
-<aside>
-<p>The Epcot center is a theme park at Walt Disney World Resort featuring exciting attractions, international pavilions, award-winning fireworks and seasonal special events.</p>
-</aside>
+<li>Third Item</li>
 
-<p>My family and I visited The Epcot center this summer. The weather was nice, and Epcot was amazing! I had a great summer together with my family!</p>
-<p>My family and I visited The Epcot center this summer. The weather was nice, and Epcot was amazing! I had a great summer together with my family!</p>
-
-</body>
-</html>
+</ul>
+</p>
+  <p>A lot of text that causes scrolling goes here.</p>
+  <p><a href="#opening">Jump to opening</a></p>
+  <p><a href="#top">Top</a></p>
